@@ -38,7 +38,7 @@ Ensure you have the following libraries installed:
 3. Run the main script:
 
    ```sh
-   python main.py
+   python CompleteCode.py
    ```
 
 ## Usage
